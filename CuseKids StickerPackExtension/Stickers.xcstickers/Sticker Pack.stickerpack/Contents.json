@@ -1,28 +1,34 @@
 {
   "stickers" : [
     {
-      "filename" : "syr.sticker"
+      "filename" : "dome.sticker"
     },
     {
-      "filename" : "cuse.sticker"
+      "filename" : "susick.sticker"
     },
     {
-      "filename" : "goorange.sticker"
-    },
-    {
-      "filename" : "cuselogo.sticker"
-    },
-    {
-      "filename" : "otto.sticker"
-    },
-    {
-      "filename" : "mad.sticker"
+      "filename" : "cusepreme.sticker"
     },
     {
       "filename" : "slog.sticker"
     },
     {
+      "filename" : "otto.sticker"
+    },
+    {
       "filename" : "cuselocation.sticker"
+    },
+    {
+      "filename" : "cuselogo.sticker"
+    },
+    {
+      "filename" : "mad.sticker"
+    },
+    {
+      "filename" : "orangeball.sticker"
+    },
+    {
+      "filename" : "sucuse.sticker"
     },
     {
       "filename" : "pennant.sticker"
@@ -31,7 +37,13 @@
       "filename" : "cusepride.sticker"
     },
     {
-      "filename" : "cusepreme.sticker"
+      "filename" : "cuse.sticker"
+    },
+    {
+      "filename" : "syr.sticker"
+    },
+    {
+      "filename" : "goorange.sticker"
     }
   ],
   "info" : {
